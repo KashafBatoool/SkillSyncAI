@@ -1,0 +1,34 @@
+JOHN DEVELOPER
+Senior Full Stack Engineer
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 6 years of expertise in building scalable web applications using modern technologies. Proficient in cloud infrastructure, containerization, and agile development practices.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, TypeScript, Java, Go
+Web Frameworks: Django, Flask, FastAPI, React, Vue.js, Angular, Node.js, Express
+Databases: PostgreSQL, MongoDB, Redis, MySQL, Elasticsearch
+Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD, Jenkins, GitLab
+Tools & Platforms: Git, GitHub, Linux, Terraform, Ansible, Docker Compose
+
+PROFESSIONAL EXPERIENCE
+Senior Developer at TechCorp (2021 - Present)
+- Built microservices using Python, Django, and FastAPI
+- Implemented Kubernetes clusters for container orchestration
+- Managed AWS infrastructure including EC2, RDS, and Lambda functions
+- Set up CI/CD pipelines using GitLab and Jenkins
+- Led REST API design and GraphQL implementations
+
+Full Stack Developer at WebSolutions (2019 - 2021)
+- Developed React applications with TypeScript
+- Created RESTful APIs using Node.js and Express
+- Database design and optimization with PostgreSQL and MongoDB
+- Deployed applications on Docker and AWS
+
+EDUCATION
+Bachelor's in Computer Science, Tech University (2018)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Docker Certified Associate
+- Kubernetes Application Developer
